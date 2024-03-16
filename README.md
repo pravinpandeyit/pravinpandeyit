@@ -24,5 +24,6 @@ You can click the Preview link to take a look at your changes.
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=pravinpandeyit&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pravinpandeyit&theme=vue" />
 </p>
---->
+
 [![Top Language use by yogi](https://github-readme-stats.vercel.app/api/top-langs/?username=pravinpandeyit)](https://github.com/anuraghazra/github-readme-stats)
+--->
