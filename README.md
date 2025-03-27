@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Pravin Pandey
-- 👀 I’m a Laravel Developer 
-- 🌱 I’m currently learning React
+- 👀 I’m a Backend Developer 
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
